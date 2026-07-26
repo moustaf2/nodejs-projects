@@ -1,0 +1,20 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "node.js projects",
+  "homepage": "https://github.com/moustaf2/nodejs-projects#readme",
+  "bugs": {
+    "url": "https://github.com/moustaf2/nodejs-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moustaf2/nodejs-projects.git"
+  },
+  "license": "ISC",
+  "author": "Moustafa",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
